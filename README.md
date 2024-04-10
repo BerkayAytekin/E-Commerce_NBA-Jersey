@@ -6,5 +6,16 @@
     <li>The project utilized component libraries from CSS frameworks Ant Design and Chakra UI for visual design.</li>
 </ul>
 
-<h1>Getting Started with Create React App</h1>
+<h1>Getting Started</h1>
 <p>This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a>.</p>
+
+<h3>Built With</h3>
+<ul>
+    <li>ReactJS</li>
+    <li>Mongo DB</li>
+</ul>
+
+<h3>Project Photos</h3>
+<ul>
+    <img src="![alt text](image.png)">
+</ul>
