@@ -15,7 +15,4 @@
     <li>Mongo DB</li>
 </ul>
 
-<h3>Project Photos</h3>
-<ul>
-    <img src="![alt text](image.png)">
-</ul>
+
