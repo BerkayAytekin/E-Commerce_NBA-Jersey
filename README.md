@@ -42,4 +42,7 @@ npm start
     <li>Mongo DB</li>
 </ul>
 
+<h2>Project Photos</h2>
+![Resim Açıklaması](https://example.com/image.jpg)
+
 
