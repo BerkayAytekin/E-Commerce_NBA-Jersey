@@ -14,11 +14,18 @@
 
 ```bash
 git clone https://github.com/BerkayAytekin/E-Commerce_NBA-Jersey.git
-cd project_name```
+cd project_name
 
 
 <h3>Usage</h3>
-<p>To run the project:</p>
+<p>To run the project:First, we go to the 'backend' directory located in the project's directory, then we run the 'npm run dev' command in the 'backend' directory.</p>
+<p>Follow these steps to run backend</p>
+
+```bash
+cd backend
+npm run dev
+
+
 
 
 
