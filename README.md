@@ -16,6 +16,9 @@
 git clone https://github.com/BerkayAytekin/E-Commerce_NBA-Jersey.git
 cd project_name
 
+<h3>Usage</h3>
+<p>To run the project:</p>
+
 
 
 
