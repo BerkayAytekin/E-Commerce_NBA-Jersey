@@ -9,12 +9,26 @@
 <h1>Getting Started</h1>
 <p>This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a>.</p>
 
+<h3>Installing</h3>
+<p>Follow these steps to run this project on your local machine:</p>
+```bash
+git clone https://github.com/BerkayAytekin/E-Commerce_NBA-Jersey.git
+cd project_name
+
+
+
+
+
+
+
+
+
+
+
 <h3>Built With</h3>
 <ul>
     <li>ReactJS</li>
     <li>Mongo DB</li>
 </ul>
 
-```bash
-git clone https://github.com/kullaniciadi/projeadi.git
 
