@@ -11,6 +11,7 @@
 
 <h3>Installing</h3>
 <p>Follow these steps to run this project on your local machine:</p>
+
 ```bash
 git clone https://github.com/BerkayAytekin/E-Commerce_NBA-Jersey.git
 cd project_name
