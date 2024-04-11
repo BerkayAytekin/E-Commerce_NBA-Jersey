@@ -27,17 +27,14 @@ cd backend
 npm run dev
 ```
 
+<p>Finally, we navigate to the 'client' directory located in our project directory, install npm, then in the 'client' directory, we start our project with 'npm start'.</p>
+<p>Follow these steps to run client</p>
 
-
-
-
-
-
-
-
-
-
-
+```bash
+cd client
+npm install
+npm start
+```
 
 <h3>Built With</h3>
 <ul>
