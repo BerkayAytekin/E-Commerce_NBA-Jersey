@@ -15,4 +15,6 @@
     <li>Mongo DB</li>
 </ul>
 
+```bash
+git clone https://github.com/kullaniciadi/projeadi.git
 
