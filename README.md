@@ -42,5 +42,4 @@ npm start
     <li>Mongo DB</li>
 </ul>
 
-<h2>Project Photos</h2>
-(https://github.com/BerkayAytekin/E-Commerce_NBA-Jersey/blob/main/E-Commerce-1.png?raw=true)
+
