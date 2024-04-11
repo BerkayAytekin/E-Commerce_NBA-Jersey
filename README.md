@@ -14,7 +14,8 @@
 
 ```bash
 git clone https://github.com/BerkayAytekin/E-Commerce_NBA-Jersey.git
-cd project_name;
+cd project_name
+```
 
 
 <h3>Usage</h3>
@@ -23,7 +24,8 @@ cd project_name;
 
 ```bash
 cd backend
-npm run dev;
+npm run dev
+```
 
 
 
